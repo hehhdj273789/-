@@ -1,0 +1,9 @@
+2019-06-13 11:40:35,309 DEBUG [main] (LogImpl.java:12) - debug日志测试
+2019-06-13 11:40:35,312  INFO [main] (LogImpl.java:19) - info日志测试
+2019-06-13 11:40:35,312  WARN [main] (LogImpl.java:25) - warn日志测试
+2019-06-13 11:40:35,312 ERROR [main] (LogImpl.java:31) - error日志测试
+2019-06-13 11:41:45,386 DEBUG [main] (LogImpl.java:12) - debug日志测试
+2019-06-13 11:41:45,388  INFO [main] (LogImpl.java:19) - info日志测试
+2019-06-13 11:41:45,388  WARN [main] (LogImpl.java:25) - warn日志测试
+2019-06-13 11:41:45,388 ERROR [main] (LogImpl.java:31) - error日志测试
+2019-06-13 11:41:45,388 FATAL [main] (LogImpl.java:37) - fatal日志测试
